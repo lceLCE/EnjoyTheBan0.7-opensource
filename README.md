@@ -6,6 +6,8 @@ This source code has leaked by HappyC0w#9999 & HYPERFLASH#1899
 
 I remotely controlled Dai Ziyue's computer in the middle of the night and stole this code
 
+I also stole his pictures from his computer
+
 Private information of the author of this client:
 
 Name: Dai Zile
